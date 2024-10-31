@@ -1,0 +1,35 @@
+rank: Xếp hạng của tỷ phú dựa trên tài sản.
+finalWorth: Giá trị tài sản cuối cùng của tỷ phú, tính bằng đô la Mỹ.
+category: Lĩnh vực hoặc ngành mà doanh nghiệp của tỷ phú hoạt động.
+personName: Tên đầy đủ của tỷ phú.
+age: Tuổi của tỷ phú.
+country: Quốc gia mà tỷ phú đang cư trú.
+city: Thành phố mà tỷ phú đang cư trú.
+source: Nguồn gốc của tài sản của tỷ phú.
+industries: Các ngành công nghiệp liên quan đến các lĩnh vực kinh doanh của tỷ phú.
+countryOfCitizenship: Quốc tịch của tỷ phú.
+organization: Tên của tổ chức hoặc công ty liên quan đến tỷ phú.
+selfMade: Cho biết liệu tỷ phú có tự thân tạo sự giàu có (True/False).
+status: "D" đại diện cho tỷ phú tự làm giàu (Người sáng lập/Doanh nhân) và "U" chỉ định tài sản được thừa kế hoặc không tự kiếm được.
+gender: Giới tính của tỷ phú.
+birthDate: Ngày sinh của tỷ phú.
+lastName: Họ của tỷ phú.
+firstName: Tên của tỷ phú.
+title: Tựa hoặc danh hiệu của tỷ phú.
+date: Ngày thu thập dữ liệu.
+state: Bang mà tỷ phú đang cư trú.
+residenceStateRegion: Khu vực hoặc bang của nơi cư trú của tỷ phú.
+birthYear: Năm sinh của tỷ phú.
+birthMonth: Tháng sinh của tỷ phú.
+birthDay: Ngày sinh của tỷ phú.
+cpi_country: Chỉ số giá tiêu dùng (CPI) cho quốc gia của tỷ phú.
+cpi_change_country: Thay đổi CPI cho quốc gia của tỷ phú.
+gdp_country: Sản phẩm quốc nội (GDP) cho quốc gia của tỷ phú.
+gross_tertiary_education_enrollment: Số lượng học sinh đăng ký học tại các trường đại học và cao đẳng ở quốc gia của tỷ phú.
+gross_primary_education_enrollment_country: Số lượng học sinh đăng ký học ở trường tiểu học ở quốc gia của tỷ phú.
+life_expectancy_country: Tuổi thọ tại quốc gia của tỷ phú.
+tax_revenue_country_country: Doanh thu thuế ở quốc gia của tỷ phú.
+total_tax_rate_country: Tỷ lệ thuế tổng cộng ở quốc gia của tỷ phú.
+population_country: Dân số của quốc gia của tỷ phú.
+latitude_country: Tọa độ vĩ độ của quốc gia của tỷ phú.
+longitude_country: Tọa độ kinh độ của quốc gia của tỷ phú.
